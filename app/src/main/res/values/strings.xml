@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Body Measurement</string>
+    <string name="caputure">Caputure</string>
+    <string name="capture">capture</string>
+    <string name="buttoncapture">Button</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">camera</string>
+    <string name="textView">가이드라인에 몸을 맞춰주세요</string>
+    <string name="Capture">촬영하기</string>
+    <string name="guideline" />
+    <string name="Guideline">guideline</string>
+</resources>
